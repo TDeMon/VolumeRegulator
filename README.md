@@ -1,7 +1,11 @@
 VolumeRegulator
 ===============
 
-I have the simple old keyboard. And I'm using this app to control the sound of playing music without switching to the Player.
+I'm using this app to control the sound of playing music without switching off from current work.
+
+
+To USE
+======
 
 To use this app you should create a few shortcuts for this app (in current version count = 4).
 Then for each shortcut add following parametrs respectively:
